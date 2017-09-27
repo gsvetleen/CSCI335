@@ -1,0 +1,8 @@
+I had no problems except with inheritance.
+It was hard for me to derive the class from a class that was templated.
+
+I used 55 for my R value. Fewer collisons. 
+
+Run program as usual implemented in assignment. You'll be fine.
+
+All parts are completed.
